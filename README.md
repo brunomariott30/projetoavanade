@@ -83,8 +83,3 @@ Baseado nisso, temos a menção de cada método a seguir:
 
 
 
-## Considerações e Reconhecimentos
-
-*Projeto criado em novembro de 2020, baseado no desafio da **Aceleração Global Dev #2 - Avanade**.*
-<br/>
-*__Karina Santos Felippe__*
